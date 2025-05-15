@@ -3,7 +3,7 @@
 A fully responsive and elegant website for **Lakeview Country Club**, a premium golf destination offering membership plans and exclusive services.
 
 ## 🌐 Live Preview
-[Click here to view the site](#) <!-- Add your GitHub Pages or hosting link here -->
+[Click here to view the site](https://kunalbyte.github.io/lakeview-country-club/)
 
 ## 📋 Features
 
